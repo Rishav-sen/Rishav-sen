@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rishav-sen
-- 👀 I’m interested in Full-stack with a little side interest about Machine laearning.
-- 🌱 I’m currently learning about Devops.
+- 👋 Hi, I’m Rishav Sengupta @Rishav-sen
+- 👀 I’m a full-stack developer.
+- 🌱 I’m currently invested in learning backend development in deep(Microservices architecture).
 - 💞️ I’m looking to collaborate on anything that needs improvement or new ideas.
 - 📫 Reach me at sgrishav@gmail.com
 
